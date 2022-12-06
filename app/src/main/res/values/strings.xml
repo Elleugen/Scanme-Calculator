@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">(Default)Scan me! Calculator</string>
+    <string name="clear">Clear</string>
+    <string name="upload">Upload Photo</string>
+    <string name="or">or</string>
+    <string name="capture">Take photo</string>
+    <string name="recapture">Retake photo</string>
+    <string name="copy">Copy Text</string>
+    <string name="welcomeMessage">(Default)Capture or choose image from gallery!</string>
+    <string name="label">Capture or choose image from gallery!</string>
+</resources>
